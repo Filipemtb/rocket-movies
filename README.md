@@ -146,10 +146,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### **Website**  ([Vite](https://vitejs.dev/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Styled-Components](https://styled-components.com/)**
--   **[React-Toastify](https://fkhadra.github.io/react-toastify/introduction)**
--   **[React-Query](https://react-query-v3.tanstack.com/)**
 -   **[React-Icons](https://react-icons.github.io/react-icons/)**
--   **[React-Loader-Spinner](https://mhnpd.github.io/react-loader-spinner/docs/intro)**
 -   **[React-Router-DOM](https://reactrouter.com/en/main/start/tutorial)**
 
 ---
