@@ -37,7 +37,7 @@ export function Home() {
       </Content>}
       </Search>
 
-      <NewNote>
+      <NewNote to="/new">
         <FiPlus />
         Criar nota
       </NewNote>
