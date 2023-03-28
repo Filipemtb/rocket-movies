@@ -93,16 +93,7 @@ O Rocketnotes é uma aplicação web na qual os usuários podem se cadastrar e c
     title="Rocketnotes Web Demonstration Note Create"
     src=".github/CreateNote.png" width="100%"
   />
-</p>
-
----
-
-## 🔗 Deploy
-
-Para acessar o deploy do Website da aplicação basta clicar no link a seguir: [Link](https://rocketnotesweb.netlify.app/)
-
-> Obs: a aplicação pode demorar um pouco para entrar na primeira execução depois de um tempo, devido ao back-end estar rodando através do plano gratuito na plataforma de hospedagem.
-
+</p
 ---
 
 ## 🚀 Como Funciona:
